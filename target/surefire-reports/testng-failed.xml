@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]">
+  <test thread-count="5" verbose="0" name="Test(failed)">
+    <classes>
+      <class name="Practise.AppiumFramework.ApiDemoTest">
+        <methods>
+          <include name="apiDemo" invocation-numbers="0 1"/>
+        </methods>
+      </class> <!-- Practise.AppiumFramework.ApiDemoTest -->
+      <class name="Practise.AppiumFramework.Ecommerce_tc_5">
+        <methods>
+          <include name="NativeAppValidation"/>
+        </methods>
+      </class> <!-- Practise.AppiumFramework.Ecommerce_tc_5 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,11 @@
+pageObjects\ShopingPage.class
+pageObjects\WiFiPage.class
+Practise\AppiumFramework\TestData.class
+pageObjects\Dependencies.class
+Practise\AppiumFramework\BaseNativeApp.class
+Practise\AppiumFramework\Utilities.class
+pageObjects\CheckoutPage.class
+pageObjects\Homepage.class
+pageObjects\Preferences.class
+resources\Listeners.class
+pageObjects\FormPage.class

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="77774" started-at="2020-12-06T14:34:15Z" finished-at="2020-12-06T14:35:33Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="77774" started-at="2020-12-06T14:34:15Z" finished-at="2020-12-06T14:35:33Z">
+      <class name="Practise.AppiumFramework.ApiDemoTest">
+        <test-method status="PASS" signature="apiDemo(java.lang.String)[pri:0, instance:Practise.AppiumFramework.ApiDemoTest@6a41eaa2]" name="apiDemo" duration-ms="21922" started-at="2020-12-06T14:34:51Z" data-provider="InputData" finished-at="2020-12-06T14:35:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hello]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiDemo -->
+        <test-method status="PASS" signature="apiDemo(java.lang.String)[pri:0, instance:Practise.AppiumFramework.ApiDemoTest@6a41eaa2]" name="apiDemo" duration-ms="19613" started-at="2020-12-06T14:35:13Z" data-provider="InputData" finished-at="2020-12-06T14:35:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[!@#$]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiDemo -->
+      </class> <!-- Practise.AppiumFramework.ApiDemoTest -->
+      <class name="Practise.AppiumFramework.Ecommerce_tc_5">
+        <test-method status="PASS" signature="NativeAppValidation()[pri:0, instance:Practise.AppiumFramework.Ecommerce_tc_5@685cb137]" name="NativeAppValidation" duration-ms="36176" started-at="2020-12-06T14:34:15Z" finished-at="2020-12-06T14:34:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppValidation -->
+      </class> <!-- Practise.AppiumFramework.Ecommerce_tc_5 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
